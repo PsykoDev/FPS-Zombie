@@ -16,3 +16,5 @@ GameBuild
 *.xcodeproj
 *.xcworkspace
 Config/DefaultEngine.ini
+Build/Windows/FileOpenOrder/CookerOpenOrder.log
+Build/Windows/FileOpenOrder/EditorOpenOrder.log

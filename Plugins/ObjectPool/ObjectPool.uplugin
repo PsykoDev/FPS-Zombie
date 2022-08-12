@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1",
+	"FriendlyName": "ObjectPool",
+	"Description": "Object Pooling",
+	"Category": "Other",
+	"CreatedBy": "PsykoDev",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ObjectPool",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

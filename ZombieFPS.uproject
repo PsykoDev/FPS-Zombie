@@ -14,6 +14,10 @@
 		{
 			"Name": "PerformanceMonitor",
 			"Enabled": true
+		},
+		{
+			"Name": "ObjectPooling",
+			"Enabled": false
 		}
 	]
 }
